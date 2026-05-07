@@ -12,4 +12,4 @@ title: Kelvin Yuan
 My name is Kelvin Yuan, and I am 4th year mechanical engineering student at Cornell University. I specialize in mechanical design, and have worked at Henkel, Lockheed Martin, and Apple.
 
 
-Take a look at <a href="{{ "/projects/" | relative_url }}">my projects</a> and <a href="{{ "/cv/" | relative_url }}">CV</a>.
+Take a look at <a href="{{ site.baseurl }}/projects/">my projects</a> and <a href="{{ site.baseurl }}/cv/">CV</a>.
