@@ -13,7 +13,8 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : Your Name
 description              : Your Name - Projects and CV 
-baseurl                  : "" # Set this to your repo name 
+url                      : "https://cornell-mae-ug.github.io"
+baseurl                  : "/sp26-portfolio-kelvinyuan17" # Set this to your repo name 
 
 # Theme and Style
 theme: jekyll-theme-minimal
