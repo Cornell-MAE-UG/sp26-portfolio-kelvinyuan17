@@ -8,11 +8,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : Your Name
+title                    : Kelvin Yuan
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : Your Name
-description              : Your Name - Projects and CV 
+name                     : Kelvin Yuan
+description              : Kelvin Yuan - Projects and CV 
 url                      : "https://cornell-mae-ug.github.io"
 baseurl                  : "/sp26-portfolio-kelvinyuan17" # Set this to your repo name 
 
