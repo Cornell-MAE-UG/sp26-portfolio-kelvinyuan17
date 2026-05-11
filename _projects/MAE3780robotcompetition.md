@@ -20,6 +20,3 @@ The chassis of the robot was initially meant to be 3D printed, but due to budget
 
 <img src="{{ site.baseurl }}/assets/images/RobotCutCAD.png" alt="Robot CAD" width="100%">
 
-Shown below is a picture of the completed robot.
-
-<img src="{{ site.baseurl }}/assets/images/RobotPic.png" alt="Robot Pic" width="100%">
